@@ -1,0 +1,26 @@
+.card{
+    color: black;
+    background-color: aliceblue;
+    width: 300px;
+    border-radius: 20px;
+    overflow:hidden;
+    margin: 50px;
+    display: inline-block;
+    
+
+}
+
+.card img{
+    width:350px
+    
+}
+.card a{
+    color: coral;
+    text-decoration: none;
+}
+.wrap{
+    
+    width:fit-content;
+
+
+}
